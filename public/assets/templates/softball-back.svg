@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="1125" viewBox="0 0 825 1125">
+  <rect width="825" height="1125" rx="55" fill="#ffffff"/>
+  <rect x="25" y="25" width="775" height="1075" rx="42" fill="none" stroke="#232b55" stroke-width="20"/>
+  <rect x="50" y="60" width="725" height="145" rx="24" fill="#232b55"/>
+  <text x="78" y="122" font-size="42" font-family="Arial Black, sans-serif" fill="white">PLAYER NAME</text>
+  <text x="78" y="170" font-size="25" font-family="Arial Black, sans-serif" fill="white">Softball • Team Name • 2026</text>
+  <circle cx="700" cy="132" r="46" fill="white"/><text x="700" y="149" text-anchor="middle" font-size="40">🥎</text>
+  <text x="72" y="270" font-size="28" font-family="Arial Black, sans-serif" fill="#111827">PLAYER INFO</text>
+  <text x="72" y="323" font-size="25" font-family="Arial, sans-serif" fill="#111827">Grade: ________     Jersey #: ________</text>
+  <text x="72" y="370" font-size="25" font-family="Arial, sans-serif" fill="#111827">Position/Event: _________________________</text>
+  <text x="72" y="417" font-size="25" font-family="Arial, sans-serif" fill="#111827">School/Team: ___________________________</text>
+  <rect x="72" y="475" width="681" height="260" rx="16" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="100" y="530" font-size="28" font-family="Arial Black, sans-serif" fill="#111827">SEASON STATS</text>
+  <text x="100" y="590" font-size="24" font-family="Arial, sans-serif" fill="#111827">Stat 1: _______________________________</text>
+  <text x="100" y="642" font-size="24" font-family="Arial, sans-serif" fill="#111827">Stat 2: _______________________________</text>
+  <text x="100" y="694" font-size="24" font-family="Arial, sans-serif" fill="#111827">Stat 3: _______________________________</text>
+  <text x="72" y="805" font-size="28" font-family="Arial Black, sans-serif" fill="#111827">FUN FACTS</text>
+  <text x="72" y="858" font-size="24" font-family="Arial, sans-serif" fill="#111827">Favorite Athlete: _______________________</text>
+  <text x="72" y="908" font-size="24" font-family="Arial, sans-serif" fill="#111827">Favorite Subject: _______________________</text>
+  <text x="72" y="958" font-size="24" font-family="Arial, sans-serif" fill="#111827">Goal for the Season: ____________________</text>
+  <text x="72" y="1028" font-size="22" font-family="Arial, sans-serif" fill="#475569">Parent message: “We are so proud of you!”</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="1125" viewBox="0 0 825 1125">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#b91c1c"/></linearGradient>
+    <clipPath id="photo"><rect x="70" y="170" width="685" height="610" rx="34"/></clipPath>
+  </defs>
+  <rect width="825" height="1125" rx="55" fill="#f8fafc"/>
+  <rect x="25" y="25" width="775" height="1075" rx="42" fill="none" stroke="url(#g)" stroke-width="28"/>
+  <path d="M25 132 L800 62 L800 205 L25 282 Z" fill="url(#g)" opacity=".96"/>
+  <text x="62" y="105" font-size="38" font-family="Arial Black, Impact, sans-serif" fill="white">TEAM LOGO</text>
+  <circle cx="705" cy="112" r="52" fill="white" opacity=".95"/>
+  <text x="705" y="130" text-anchor="middle" font-size="44" font-family="Arial">🤼</text>
+  <rect x="70" y="170" width="685" height="610" rx="34" fill="#dbeafe" stroke="#ffffff" stroke-width="8"/>
+  <g clip-path="url(#photo)">
+    <rect x="70" y="170" width="685" height="610" fill="#e5e7eb"/>
+    <circle cx="413" cy="388" r="95" fill="#cbd5e1"/>
+    <path d="M240 720 C275 560 550 560 585 720" fill="#cbd5e1"/>
+    <text x="413" y="515" text-anchor="middle" font-size="34" font-family="Arial Black, sans-serif" fill="#475569">DROP PLAYER PHOTO HERE</text>
+  </g>
+  <path d="M25 805 L800 755 L800 1020 L25 1088 Z" fill="url(#g)"/>
+  <text x="62" y="875" font-size="54" font-family="Arial Black, Impact, sans-serif" fill="white">PLAYER NAME</text>
+  <text x="62" y="930" font-size="28" font-family="Arial Black, sans-serif" fill="white">#00  •  Weight Class</text>
+  <text x="62" y="1003" font-size="35" font-family="Arial Black, sans-serif" fill="white">WRESTLING | 2026 SEASON</text>
+</svg>
